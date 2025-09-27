@@ -4,7 +4,7 @@
 <a href="https://www.github.com/akaymu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/akaymu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaymu)](https://github.com/akaymu/github-readme-stats)
 
 ### Skills
 
